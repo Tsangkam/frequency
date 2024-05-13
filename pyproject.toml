@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "frequency"
+version = "0.1.0"
+description = "Function call frequency limiting tools for Python."
+authors = ["tsangkam"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
