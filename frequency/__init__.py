@@ -1,3 +1,3 @@
-from .frequency import frequency_limit
+from .frequency import Limiter
 
-__all__ = ['frequency_limit']
+__all__ = ['Limiter']
